@@ -1,0 +1,16 @@
+PODS:
+  - Files (4.0.2)
+
+DEPENDENCIES:
+  - Files (~> 4.0.2)
+
+SPEC REPOS:
+  trunk:
+    - Files
+
+SPEC CHECKSUMS:
+  Files: d88e31b84d65e754935053b1c584ea8e2320698a
+
+PODFILE CHECKSUM: f4704efbe675c072de2ee0e35536709e7f29e9c6
+
+COCOAPODS: 1.9.3

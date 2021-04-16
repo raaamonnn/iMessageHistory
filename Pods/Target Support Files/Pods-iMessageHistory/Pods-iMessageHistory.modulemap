@@ -1,0 +1,6 @@
+framework module Pods_iMessageHistory {
+  umbrella header "Pods-iMessageHistory-umbrella.h"
+
+  export *
+  module * { export * }
+}
